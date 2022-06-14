@@ -1,7 +1,7 @@
 # Inshackle v2.3
 # Instagram bot,auto follower
-## Recoded: github.com/beyondlon/inshackle-bot
-## WebPage: https://beyondlon.github.io
+## Recoded: github.com/thatbynln/inshackle-bot
+## WebPage: https://thatbynln.github.io
 
 ### Don't copy this code without give me the credits, nerd! Please read the License 
 ### thanks to linuxchoice
@@ -19,7 +19,7 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 
 ### Usage:
 ```
-git clone https://github.com/beyondlon/inshackle-bot
+git clone https://github.com/thatbynln/inshackle-bot
 cd inshackle-bot
 bash inshackle.sh
 ```
